@@ -4,10 +4,19 @@
 
 <hr/>
 <div align="center" dir="auto">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+25+Charted&duration=2000&pause=100000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Tech+Stack" alt="Typing SVG" /></a>
+ 	<img src="https://readme-typing-svg.demolab.com?font=Jersey+25+Charted&duration=2000&pause=100000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Tech+Stack" alt="Typing SVG" /></a>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <br>
 </div>
+
+<div align="center" dir="auto">
+ 	<a href="https://git.io/typing-svg">
+	<img src="https://readme-typing-svg.demolab.com?font=Jersey+25+Charted&duration=2000&pause=100000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Blog" alt="Typing SVG" /></a>
+</div>
+<div align=center>
+	<a href="https://velog.io/@moneyandjelly_/posts">
+	<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+    <br>
 <hr/>
