@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moneyandjelly&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/moneyandjelly/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moneyandjelly&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/moneyandjelly/moneyandjelly/blob/main/README.md)
