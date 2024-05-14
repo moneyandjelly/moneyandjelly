@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" dir="auto">
- 	<a href="https://git.io/typing-svg">
+ 	<a href="https://git.io/typing-svg" target "_blank">
 	<img src="https://readme-typing-svg.demolab.com?font=Jersey+25+Charted&duration=2000&pause=100000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Blog" alt="Typing SVG" /></a>
 </div>
 <div align=center>
