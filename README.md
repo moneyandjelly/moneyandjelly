@@ -8,8 +8,8 @@
  	<img src="https://readme-typing-svg.demolab.com?font=Jersey+25+Charted&duration=2000&pause=100000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Tech+Stack" alt="Typing SVG" /></a>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-	<img src="https://img.shields.io/badge/Python-77B829?style=for-the-badge&logo=folium&logoColor=white">
+	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+	<img src="https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=folium&logoColor=white">
 	
     <br>
 </div>
