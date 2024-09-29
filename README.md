@@ -48,5 +48,3 @@
 	<a href="https://velog.io/@moneyandjelly_/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
     <br>
 <hr/>
-
-![moneyandjelly GitHub stats](https://github-readme-stats.vercel.app/api?username=moneyandjelly&count_private=true)
