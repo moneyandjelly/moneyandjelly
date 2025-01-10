@@ -57,26 +57,8 @@
 <a href="#"><img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonec2&logoColor=fff&style=flat"></a>
 </p>
 
-<h2>💻 Software and Tools</h2>
-
-<p>
-<a href="#"><img alt="Macos" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
-<a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white"></a>
-<a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"></a>
-<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20Desktop-2496ED?logo=docker&logoColor=fff&style=flat"></a>
-</p>
-
-
-### Thank you for visiting my profile 🤓 
-
 ------
 
 Credit : [moneyandjelly](https://github.com/moneyandjelly)
 
-Last Edited On: 11/12/2024
+Last Edited On: 10/01/2025
